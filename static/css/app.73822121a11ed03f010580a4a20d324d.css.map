@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.73822121a11ed03f010580a4a20d324d.css"],"names":[],"mappings":"AACA,WACE,aAAc,AACd,sBAAuB,AACvB,WAAa,CACd","file":"app.73822121a11ed03f010580a4a20d324d.css","sourcesContent":["\n#contentor {\n  padding: 20px;\n  border: 1px solid #eee;\n  margin: 20px;\n}\n"]}
